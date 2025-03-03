@@ -1,0 +1,8 @@
+Pandas
+NumPy
+Matplotlib
+Seaborn
+XGBoost
+Prophet
+Scikit-learn
+Jupyter Notebook
