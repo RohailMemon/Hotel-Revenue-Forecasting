@@ -43,9 +43,10 @@ This project provides both statistical (Prophet) and machine learning-based (XGB
 
 **Evaluated model performance using:**
 
-1. Mean Absolute Error (MAE)
-2. Root Mean Squared Error (RMSE)
-3. R² Score
+1. Mean Absolute Error (MAE): 3.17
+2. Mean Squared Error (MSE): 125.44
+3. Root Mean Squared Error (RMSE): 11.20
+4. R² Score: 0.9991
 
 **4️⃣ Feature Importance Analysis**
 
